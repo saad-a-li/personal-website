@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="567" height="576" viewBox="0 0 567 576">
+  <g id="Group_3" data-name="Group 3" transform="translate(-1023 -186)">
+    <g id="Hero-image" transform="translate(1023 186)">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="71" cy="70.5" rx="71" ry="70.5" transform="translate(142 144)" fill="#fff"/>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(283)" fill="#7314ef" stroke="rgba(112,112,112,0)" stroke-width="1">
+        <ellipse cx="71" cy="70.5" rx="71" ry="70.5" stroke="none"/>
+        <ellipse cx="71" cy="70.5" rx="70.5" ry="70" fill="none"/>
+      </g>
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(283 288)" fill="#7314ef" stroke="rgba(112,112,112,0)" stroke-width="1">
+        <ellipse cx="71" cy="70.5" rx="71" ry="70.5" stroke="none"/>
+        <ellipse cx="71" cy="70.5" rx="70.5" ry="70" fill="none"/>
+      </g>
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="71" cy="70.5" rx="71" ry="70.5" transform="translate(142 435)" fill="#fff"/>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="71" cy="70.5" rx="71" ry="70.5" transform="translate(0 288)" fill="#f6a503"/>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="71" cy="70.5" rx="71" ry="70.5" transform="translate(425 141)" fill="#ce43ff"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="142" height="147" rx="28" transform="translate(283 141)" fill="#f6a503"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="142" height="147" rx="28" transform="translate(141 288)" fill="#ce43ff"/>
+    </g>
+  </g>
+</svg>
+
